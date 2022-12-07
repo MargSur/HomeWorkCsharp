@@ -4,15 +4,15 @@
 6, 1, 33 -> [6, 1, 33] */
 
 
-int [] numbers = new int[8];
+Console.Write("Введите количество элементов массива: ");
+int elementsCount = int.Parse(Console.ReadLine());
 
-for (int i = 0; i < numbers.Length; i++)
- {
-    numbers [i] = new Random().Next(0,101);
-    Console.Write(Method (i) + " ");
- }
+int [] array = new int[elementsCount];
 
-int Method (int a)
+for (int i = 0; i < array.Length; i++)
 {
-    return numbers[a];
+    Console.Write($"Введите элемент массива под индексом {i}: ");
+    array[i] = int.Parse(Console.ReadLine());
 }
+
+Console.Write($"[{String.Join(", ", array)}]");
