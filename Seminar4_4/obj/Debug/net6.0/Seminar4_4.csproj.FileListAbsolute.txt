@@ -1,0 +1,15 @@
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\bin\Debug\net6.0\Seminar4_4.exe
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\bin\Debug\net6.0\Seminar4_4.deps.json
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\bin\Debug\net6.0\Seminar4_4.runtimeconfig.json
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\bin\Debug\net6.0\Seminar4_4.dll
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\bin\Debug\net6.0\Seminar4_4.pdb
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.csproj.AssemblyReference.cache
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.AssemblyInfoInputs.cache
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.AssemblyInfo.cs
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.csproj.CoreCompileInputs.cache
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.dll
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\refint\Seminar4_4.dll
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.pdb
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\Seminar4_4.genruntimeconfig.cache
+C:\Users\HeavenX\Desktop\C_sharp\Seminar4_4\obj\Debug\net6.0\ref\Seminar4_4.dll
