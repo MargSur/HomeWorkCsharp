@@ -12,8 +12,14 @@ Console.Write("Введите k2: ");
 var k2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите b2: ");
 var b2 = Convert.ToDouble(Console.ReadLine());
- 
+
 var x = (b2 - b1) / (k1 - k2);
 var y = k1 * x + b1;
- 
-Console.WriteLine($"Прямые y={k1}x+{b1} и y={k2}x+{b2} пересекаются в точке: ({x};{y})");
+
+if (k1 == k2)
+{
+    Console.WriteLine("Прямые параллельны");
+}
+else
+
+    Console.WriteLine($"Прямые y={k1}x+{b1} и y={k2}x+{b2} пересекаются в точке: ({x};{y})");
