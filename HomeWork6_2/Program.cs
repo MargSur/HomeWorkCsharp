@@ -18,7 +18,7 @@ var y = k1 * x + b1;
 
 if (k1 == k2)
 {
-    Console.WriteLine("Прямые параллельны");
+    Console.Write("Прямые параллельны, точек пересечения нет");
 }
 else
 
