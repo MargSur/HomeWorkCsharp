@@ -29,5 +29,5 @@ if (m > n)
     m = n;
     n = temp;
 }
-Console.Write($"{m}, {n} ->");
+Console.Write($"Сумма от {m} до {n} =");
 PrintSum(m, n, temp = 0);
