@@ -1,0 +1,15 @@
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\bin\Debug\net6.0\HomeWork8_5.exe
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\bin\Debug\net6.0\HomeWork8_5.deps.json
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\bin\Debug\net6.0\HomeWork8_5.runtimeconfig.json
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\bin\Debug\net6.0\HomeWork8_5.dll
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\bin\Debug\net6.0\HomeWork8_5.pdb
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.csproj.AssemblyReference.cache
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.AssemblyInfoInputs.cache
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.AssemblyInfo.cs
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.csproj.CoreCompileInputs.cache
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.dll
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\refint\HomeWork8_5.dll
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.pdb
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\HomeWork8_5.genruntimeconfig.cache
+C:\Users\HeavenX\Desktop\C_sharp\HomeWork8_5\obj\Debug\net6.0\ref\HomeWork8_5.dll
